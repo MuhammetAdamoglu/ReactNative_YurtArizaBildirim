@@ -1,0 +1,6 @@
+	  kullanýcý adý     þifre
+          -------------    --------
+ADMÝN=>      admin         12345678
+Elektrik=>   elektrikci    12345
+DOÐAL GAZ=>  dogalgazci    12345
+SU=> 	     sucu          12345
